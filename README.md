@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It is my first flight with [Next.js](https://nextjs.org/), I dont know what app that I wanna build, but I really really want to learn this framework, so #CodingDulu ! 
 
 ## Getting Started
 
@@ -23,8 +23,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Identity
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Author : Aldo Hardiansyah
+Site : AldoHardiansyah.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
